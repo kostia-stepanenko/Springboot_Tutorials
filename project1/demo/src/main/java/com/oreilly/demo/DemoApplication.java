@@ -11,3 +11,4 @@ public class DemoApplication {
 	}
 
 }
+//C:\Users\Shade\Desktop\Springboot_Tutorials\project1\demo> .\gradlew bootRun
